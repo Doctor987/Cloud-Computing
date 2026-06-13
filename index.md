@@ -1,10 +1,3 @@
-```yaml
----
-layout: default
-title: Cloud Computing
-theme: jekyll-theme-minimal
----
-```
 
 # Cloud Computing
 
